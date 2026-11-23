@@ -33,7 +33,7 @@
 | 一枝红杏官网 / 用户中心 | [https://order.yizhihongxing.club/](https://go2lk.pages.dev/cuakh4) |
 | 官网页面公布的最新域名 | [https://order.yizhihongxing.org](https://go2lk.pages.dev/cuakh4) |
 | 服务条款 | 请从官方网站页脚进入 |
-| 联系方式 | 请通过官方网站的联系我们或工单入口 |
+| 联系方式 | 请通过官方网站的工单入口 |
 
 如果你正在搜索“一枝红杏官网”“红杏云官网”或“一枝红杏机场”，建议先核对域名，再登录用户中心查看套餐和公告。域名可能调整，请以官网最新公告为准。
 
