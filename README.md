@@ -8,7 +8,7 @@
 
 官网入口、套餐价格、服务信息、客户端支持与常见问题整理。
 
-[官方网站](https://order.yizhihongxing.club/) · [最新域名](https://order.yizhihongxing.org)
+[官方网站](https://go2lk.pages.dev/cuakh4) · [最新域名](https://go2lk.pages.dev/cuakh4)
 
 </div>
 
@@ -30,12 +30,18 @@
 
 | 项目 | 地址 |
 | --- | --- |
-| 一枝红杏官网 / 用户中心 | https://order.yizhihongxing.club/ |
-| 官网页面公布的最新域名 | https://order.yizhihongxing.org |
+| 一枝红杏官网 / 用户中心 | [https://order.yizhihongxing.club/](https://go2lk.pages.dev/cuakh4) |
+| 官网页面公布的最新域名 | [https://order.yizhihongxing.org](https://go2lk.pages.dev/cuakh4) |
 | 服务条款 | 请从官方网站页脚进入 |
 | 联系方式 | 请通过官方网站的联系我们或工单入口 |
 
 如果你正在搜索“一枝红杏官网”“红杏云官网”或“一枝红杏机场”，建议先核对域名，再登录用户中心查看套餐和公告。域名可能调整，请以官网最新公告为准。
+
+### 一枝红杏优惠码
+
+- 优惠码：`11meigui`
+- 优惠说明：全场9折，一年只有一次活动，请留意官网公告。
+- 优惠有效期：长期有效
 
 ## 一枝红杏是什么？
 
@@ -121,7 +127,7 @@
 
 ## 购买和使用步骤
 
-1. **访问官网：** 打开 https://order.yizhihongxing.club/ ，并核对官网公布的最新域名。
+1. **访问官网：** 打开 [https://order.yizhihongxing.club/](https://go2lk.pages.dev/cuakh4) ，并核对官网公布的最新域名。
 2. **查看套餐：** 对比探春 Lite 和寻梅 Pro 的流量、设备数、周期总价及服务条款。
 3. **完成付款：** 按结账页面实际提供的方式操作。
 4. **获取订阅：** 付款后登录用户中心，在“我的订阅”中查看订阅信息。
@@ -133,7 +139,7 @@
 
 ### 一枝红杏官网地址是什么？
 
-官网用户中心为 https://order.yizhihongxing.club/ 。官网页面同时公布了 https://order.yizhihongxing.org 作为最新域名提示。访问前请留意官方公告和域名变化。
+官网用户中心为 [https://order.yizhihongxing.club/](https://go2lk.pages.dev/cuakh4) 。官网页面同时公布了 [https://order.yizhihongxing.org](https://go2lk.pages.dev/cuakh4) 作为最新域名提示。访问前请留意官方公告和域名变化。
 
 ### 红杏云和一枝红杏是什么关系？
 
@@ -165,8 +171,8 @@
 
 ## 信息来源与更新说明
 
-- 官方网站：https://order.yizhihongxing.club/
-- 官网公布的最新域名：https://order.yizhihongxing.org
+- 官方网站：[https://order.yizhihongxing.club/](https://go2lk.pages.dev/cuakh4)
+- 官网公布的最新域名：[https://order.yizhihongxing.org](https://go2lk.pages.dev/cuakh4)
 - 本仓库最后核对日期：2026-11-23
 - 价格、套餐和服务信息可能变化，更新时以官网页面为准。
 

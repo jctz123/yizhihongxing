@@ -1,12 +1,12 @@
 # 一枝红杏 / 红杏云常见问题
 
-> 本文为独立整理，服务细节以 [官方网站](https://order.yizhihongxing.club/) 为准。
+> 本文为独立整理，服务细节以 [官方网站](https://go2lk.pages.dev/cuakh4) 为准。
 
 ## 官网入口
 
-一枝红杏官网用户中心：https://order.yizhihongxing.club/
+一枝红杏官网用户中心：[https://order.yizhihongxing.club/](https://go2lk.pages.dev/cuakh4)
 
-官网页面另公布最新域名提示：https://order.yizhihongxing.org 。域名可能变化，访问前请核对官网公告。
+官网页面另公布最新域名提示：[https://order.yizhihongxing.org](https://go2lk.pages.dev/cuakh4) 。域名可能变化，访问前请核对官网公告。
 
 ## 红杏云和一枝红杏是同一个品牌吗？
 

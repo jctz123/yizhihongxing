@@ -18,4 +18,4 @@
 | 2 年 | ¥899 | ¥37.46 | 500GB | 不限设备数量 |
 | 3 年 | ¥1198 | ¥33.28 | 500GB | 不限设备数量 |
 
-官网：https://order.yizhihongxing.club/
+官网：[https://order.yizhihongxing.club/](https://go2lk.pages.dev/cuakh4)
